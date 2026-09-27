@@ -1,0 +1,12 @@
+checking_base_sha: 940d9b0bca2007656eade27fadfe9cc1d4a33edb
+previous_check_retries:
+  - attempt: 1
+    batch_pr_head_sha: 7d2aeb734979a98560b1452a2aa1d58bd355ef8e
+    batch_pr_number: 5
+    draft_pr_head_sha: 7d2aeb734979a98560b1452a2aa1d58bd355ef8e
+    draft_pr_number: 5
+previous_failed_batches: []
+pull_requests:
+  - number: 4
+    scopes: []
+scopes: []
